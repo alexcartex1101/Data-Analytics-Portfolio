@@ -1,1 +1,1 @@
-- [Certificate](https://github.com/alexcartex1101/Data-Analytics-Portfolio/blob/main/PxhVW.pdf)
+- [Certificate](https://github.com/alexcartex1101/Data-Analytics-Portfolio/blob/main/Data_Analytics_Essentials_Certificate.pdf)
