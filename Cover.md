@@ -1,4 +1,4 @@
-<h1>Hi, Welcome to my Portfolio! <br/><a href="[](https://github.com/alexcartex1101/Data-Analytics-Portfolio/)">
+<h1>Hi, Welcome to my Portfolio! <br/><a href="[Data_Analytics_Essentials](https://github.com/alexcartex1101/Data-Analytics-Portfolio/Data_Analytics_Essentials.md)">
   
 </h1>
 
@@ -8,7 +8,7 @@
   <h2>Data Analytics Projects:</h2>
 
 - <b> Cleaning Data </b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Praciting DS & Algos in Python](https://www.linkedin.com/in/aabelmorales/)
 - <b>Query with MySQLWorkbench (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
