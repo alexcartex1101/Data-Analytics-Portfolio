@@ -3,7 +3,7 @@
 </h1>
 
 <h2> Certifications <h2>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Data Analytics Essentials](https://github.com/alexcartex1101/Data_Analytics_Essentials)
   
   <h2>Data Analytics Projects:</h2>
 
