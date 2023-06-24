@@ -1,9 +1,9 @@
-<h1>Hi, Welcome to my Portfolio! <br/><a href="[https://github.com/joshmadakor1](https://github.com/alexcartex1101/alexcartex1101/)">
+<h1>Hi, Welcome to my Portfolio! <br/><a href="[https://github.com/alexcartex1101/Data-Analytics-Portfolio/)">
   
 </h1>
 
 <h2> Certifications <h2>
-  - [Data Essencials](https://la.utexas.edu/texasexeced/digitalVerification.html?key=PxhVW)
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
   
   <h2>Data Analytics Projects:</h2>
 
