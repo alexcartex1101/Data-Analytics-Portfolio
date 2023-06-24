@@ -1,1 +1,2 @@
 - [Certificate](https://github.com/alexcartex1101/Data-Analytics-Portfolio/blob/main/Data_Analytics_Essentials_Certificate.pdf)
+- [Certificate_Digital_Verify](https://la.utexas.edu/texasexeced/digitalVerification.html?key=PxhVW)
