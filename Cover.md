@@ -5,7 +5,9 @@
 <h2>Certifications:</h2>
 
 - <b> University of Texas at Austin Certification </b>
-  - [Praciting DS & Algos in Python](https://www.linkedin.com/in/aabelmorales/)
+
+  - [Certificate](https://github.com/alexcartex1101/Data-Analytics-Portfolio/blob/main/Data_Analytics_Essentials_Certificate.pdf)
+  - [Certificate Digital Verify](https://la.utexas.edu/texasexeced/digitalVerification.html?key=PxhVW)
 
 <h2>Data Analytics Projects:</h2>
 
@@ -44,18 +46,3 @@
 [linkedin]: https://linkedin.com/in/aabelmorales
 [youtube]: https://www.youtube.com/c/joshmadakor
 [instagram]: https://www.instagram.com/joshmadakor/
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
