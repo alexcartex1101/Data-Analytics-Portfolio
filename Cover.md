@@ -6,21 +6,21 @@
 
 - <b> University of Texas at Austin Certification </b>
 
-  - [Certificate](https://github.com/alexcartex1101/Data-Analytics-Portfolio/blob/main/Data_Analytics_Essentials_Certificate.pdf)
-  - [Certificate Digital Verify](https://la.utexas.edu/texasexeced/digitalVerification.html?key=PxhVW)
+  - [Certificate.](https://github.com/alexcartex1101/Data-Analytics-Portfolio/blob/main/Data_Analytics_Essentials_Certificate.pdf)
+  - [Certificate Digital Verify.](https://la.utexas.edu/texasexeced/digitalVerification.html?key=PxhVW)
 
 <h2>Data Analytics Projects:</h2>
 
-- <b> Cleaning Data </b>
-  - [Structured Data in Excel](https://www.linkedin.com/in/aabelmorales/)
-  - [Structured Data in Python](https://www.linkedin.com/in/aabelmorales/)
-  - [Structured Data in Power BI](https://www.linkedin.com/in/aabelmorales/)
+- <b> Data Cleaning </b>
+  - [Structured Data in Excel.](https://www.linkedin.com/in/aabelmorales/)
+  - [Structured Data in Python.](https://www.linkedin.com/in/aabelmorales/)
+  - [Structured Data in Power BI.](https://www.linkedin.com/in/aabelmorales/)
 
-- <b> Query Data </b>
-  - [Query with MySQLWorkbench](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)  <b><i>(Potentially NSFW)</b></i>
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+- <b> Data Query </b>
+  - [Query with MySQLWorkbench](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)  
+  - [Query with MySQLServer](https://github.com/joshmadakor1/Key-Logger-With-Email)
 
-- <b>PowerShell</b>
+- <b> Data Vizualization </b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
@@ -51,3 +51,5 @@
 [linkedin]: https://linkedin.com/in/aabelmorales
 [youtube]: https://www.youtube.com/c/joshmadakor
 [instagram]: https://www.instagram.com/joshmadakor/
+
+<b><i>(Potentially NSFW)</b></i>
