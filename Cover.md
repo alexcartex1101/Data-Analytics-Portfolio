@@ -12,19 +12,19 @@
 <h2>Data Analytics Projects:</h2>
 
 - <b> Data Cleaning </b>
-  - [Structured Data in Excel.](https://www.linkedin.com/in/aabelmorales/)
-  - [Structured Data in Python.](https://www.linkedin.com/in/aabelmorales/)
-  - [Structured Data in Power BI.](https://www.linkedin.com/in/aabelmorales/)
+  - [Structured Data Cleaning in Excel.](https://www.linkedin.com/in/aabelmorales/)
+  - [Structured Data Cleaning in Python.](https://www.linkedin.com/in/aabelmorales/)
+  - [Structured Data Cleaning in Power BI.](https://www.linkedin.com/in/aabelmorales/)
 
 - <b> Data Query </b>
-  - [Query with MySQLWorkbench.](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)  
-  - [Query with MySQLServer.](https://github.com/joshmadakor1/Key-Logger-With-Email)
+  - [Query Data with MySQLWorkbench.](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)  
+  - [Query Data with MySQLServer.](https://github.com/joshmadakor1/Key-Logger-With-Email)
 
 - <b> Data Vizualization </b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [Data Visualization in Excel](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Data Visualization in Tableu](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - [Data Visualization in Python](https://github.com/joshmadakor1/AD_PS)
+  - [Data Visualization in Power BI)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 
 - <b>C# (.NET Desktop Applications)</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
