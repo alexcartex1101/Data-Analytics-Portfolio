@@ -12,9 +12,14 @@
 <h2>Data Analytics Projects:</h2>
 
 - <b> Cleaning Data </b>
-  - [Praciting DS & Algos in Python](https://www.linkedin.com/in/aabelmorales/)
-- <b>Query with MySQLWorkbench (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Structured Data in Excel](https://www.linkedin.com/in/aabelmorales/)
+  - [Structured Data in Python](https://www.linkedin.com/in/aabelmorales/)
+  - [Structured Data in Power BI](https://www.linkedin.com/in/aabelmorales/)
+
+- <b> Query Data </b>
+  - [Query with MySQLWorkbench](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)  <b><i>(Potentially NSFW)</b></i>
+  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
