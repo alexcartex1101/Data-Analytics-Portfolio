@@ -2,10 +2,12 @@
   
 </h1>
 
-<h2> Certifications <h2>
-  - [Data Analytics Essentials](https://github.com/alexcartex1101/Data_Analytics_Essentials)
-  
-  <h2>Data Analytics Projects:</h2>
+<h2>Certifications:</h2>
+
+- <b> University of Texas at Austin Certification </b>
+  - [Praciting DS & Algos in Python](https://www.linkedin.com/in/aabelmorales/)
+
+<h2>Data Analytics Projects:</h2>
 
 - <b> Cleaning Data </b>
   - [Praciting DS & Algos in Python](https://www.linkedin.com/in/aabelmorales/)
@@ -20,6 +22,8 @@
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
