@@ -12,7 +12,7 @@
 <h2>Data Analytics Projects:</h2>
 
 - <b> Data Cleaning </b>
-  - [Structured Data Cleaning in Excel.](https://www.linkedin.com/in/aabelmorales/)
+  - [Structured Data Cleaning in Excel.]([https://www.linkedin.com/in/aabelmorales/](https://github.com/alexcartex1101/Data-Analytics-Portfolio/blob/main/in_process.md))
   - [Structured Data Cleaning in Python.](https://www.linkedin.com/in/aabelmorales/)
   - [Structured Data Cleaning in Power BI.](https://www.linkedin.com/in/aabelmorales/)
 
