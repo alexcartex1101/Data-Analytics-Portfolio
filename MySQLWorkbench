@@ -14,7 +14,6 @@ FROM ORDERS.ADDRESS;
 
 
 -- Update the price of all products in the product table to a 25% lesser value
-
 UPDATE ORDERS.PRODUCT							## Using the command 'Update' will modify current values in the table 'Product'
 SET PRODUCT_PRICE = PRODUCT_PRICE - (PRODUCT_PRICE * 0.25);		## Following with the 'Set' command will specify the column 'Product_price' and describe the operational process to run.
 
@@ -23,7 +22,6 @@ FROM ORDERS.PRODUCT;							## In order to can visualize the results updated, a '
 
 
 -- Display the top 10 rows from address table
-
 SELECT *
 FROM ORDERS.ADDRESS
 LIMIT 10;								## Using the command 'Limit' will only display the first 10 rows of the table that meet all conditions in the query.
