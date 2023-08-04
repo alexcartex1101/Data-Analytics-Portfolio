@@ -13,8 +13,8 @@
 
 - <b> Data Cleaning </b>
   - [Structured Data Cleaning in Excel.](https://github.com/alexcartex1101/Data-Analytics-Portfolio/blob/main/in_process.md)
-  - [Structured Data Cleaning in Python.](https://www.linkedin.com/in/aabelmorales/)
-  - [Structured Data Cleaning in Power BI.](https://www.linkedin.com/in/aabelmorales/)
+  - [Structured Data Cleaning in Python.](https://github.com/alexcartex1101/Data-Analytics-Portfolio/blob/main/in_process.md)
+  - [Structured Data Cleaning in Power BI.](https://github.com/alexcartex1101/Data-Analytics-Portfolio/blob/main/in_process.md)
 
 - <b> Data Query </b>
   - [Query Data with MySQLWorkbench.](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)  
