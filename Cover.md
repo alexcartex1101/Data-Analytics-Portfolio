@@ -17,31 +17,31 @@
   - [Structured Data Cleaning in Power BI.](https://github.com/alexcartex1101/Data-Analytics-Portfolio/blob/main/in_process.md)
 
 - <b> Data Query </b>
-  - [Query Data with MySQLWorkbench.](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)  
-  - [Query Data with MySQLServer.](https://github.com/joshmadakor1/Key-Logger-With-Email)
+  - [Query Data with MySQLWorkbench.](https://github.com/alexcartex1101/Data-Analytics-Portfolio/blob/main/in_process.md)
+  - [Query Data with MySQLServer.](https://github.com/alexcartex1101/Data-Analytics-Portfolio/blob/main/in_process.md)
 
 - <b> Data Vizualization </b>
-  - [Data Visualization in Excel](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [Data Visualization in Tableu](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Data Visualization in Python](https://github.com/joshmadakor1/AD_PS)
-  - [Data Visualization in Power BI)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [Data Visualization in Excel](https://github.com/alexcartex1101/Data-Analytics-Portfolio/blob/main/in_process.md)
+  - [Data Visualization in Tableu](https://github.com/alexcartex1101/Data-Analytics-Portfolio/blob/main/in_process.md)
+  - [Data Visualization in Python](https://github.com/alexcartex1101/Data-Analytics-Portfolio/blob/main/in_process.md)
+  - [Data Visualization in Power BI)](https://github.com/alexcartex1101/Data-Analytics-Portfolio/blob/main/in_process.md)
 
 - <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+  - [Ransomware Proof of Concept (Encrypter)](https://github.com/alexcartex1101/Data-Analytics-Portfolio/blob/main/in_process.md)
+  - [Ransomware Proof of Concept (Decrypter)](https://github.com/alexcartex1101/Data-Analytics-Portfolio/blob/main/in_process.md)
+  - [Keylogger with Email Capability](https://github.com/alexcartex1101/Data-Analytics-Portfolio/blob/main/in_process.md)
+  - [Keylogger with Email Capability](https://github.com/alexcartex1101/Data-Analytics-Portfolio/blob/main/in_process.md)
 
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/alexcartex1101/Data-Analytics-Portfolio/blob/main/in_process.md)
 
 <h2>Popular YouTube Videos</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [How to get into Cybersecurity Starting From Zero](https://github.com/alexcartex1101/Data-Analytics-Portfolio/blob/main/in_process.md)
+- [A Day in the Life of a Cybersecurity Anayst](https://github.com/alexcartex1101/Data-Analytics-Portfolio/blob/main/in_process.md)
+- [How to Create a KeyLogger (C#)](https://github.com/alexcartex1101/Data-Analytics-Portfolio/blob/main/in_process.md)
+- [Ransomware Demonstration (C#)](https://github.com/alexcartex1101/Data-Analytics-Portfolio/blob/main/in_process.md)
+- [Is WGU Legit?](https://github.com/alexcartex1101/Data-Analytics-Portfolio/blob/main/in_process.md)
 
 <h2>Connect with me:</h2>
 
