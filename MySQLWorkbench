@@ -1,17 +1,14 @@
 -- Display entire data from "products" table
-
 SELECT *								## With the 'Select' command will ask to retrieve 'ALL' data contained in the database
 FROM ORDERS.PRODUCT;							## To finalize this query will specify the source table ('Product') in the database ('Orders')and use ';' to close the statement.
 
 
 -- Display unique cities in the address table
- 
 SELECT CITY								## With the 'Select' command will retrieve the column 'City' for the analysis
 FROM ORDERS.ADDRESS;							## from the table 'Address' in the database 'Orders'.
 
 
 -- Display only "address_id", "city", "state" and "pincode" columns from "address" table
-
 SELECT ADDRESS_ID, STATE, PINCODE					## Another example where 3 columns are retrieved for analysis (address_id, state and pincode).
 FROM ORDERS.ADDRESS;
 
