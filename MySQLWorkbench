@@ -6,9 +6,9 @@ FROM
 
 -- Display unique cities in the address table
 SELECT
-	 CITY								        ## With the 'Select' command will retrieve the column 'City' for the analysis
+	 CITY								## With the 'Select' command will retrieve the column 'City' for the analysis
 FROM
- 	 ORDERS.ADDRESS;							## from the table 'Address' in the database 'Orders'.
+ 	 ORDERS.ADDRESS;						## from the table 'Address' in the database 'Orders'.
 
 
 -- Display only "address_id", "city", "state" and "pincode" columns from "address" table
