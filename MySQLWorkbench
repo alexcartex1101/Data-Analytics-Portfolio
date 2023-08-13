@@ -36,3 +36,64 @@ SELECT *
 FROM 
   ORDERS.ADDRESS
 LIMIT 10;								## Using the command 'Limit' will only display the first 10 rows of the table that meet all conditions in the query.
+
+
+SELECT *															
+FROM
+	ORDERS.ADDRESS													
+WHERE
+	STATE IN ('NY', 'CT', 'AL');						## With the clause 'Where' will filter the results for: 'New York', 'Connecticut' and 'Alabama' States.
+
+
+-- Fetch the records from the "address" table where "state" is not null
+
+SELECT *															
+FROM
+	ORDERS.ADDRESS													
+WHERE
+	STATE IS NOT NULL;							## Using 'Where' clause will filter the results where 'City' 'is not Null'.
+
+
+-- Fetch the records from "address" table where "city" name starts with the letter 'B'
+
+SELECT *															
+FROM
+	ORDERS.ADDRESS													
+WHERE
+	CITY LIKE 'B%';								## Using the clause 'Where' will fetch the results from 'Address' table where 'City' starts with 'B'.
+
+
+-- Fetch the records from "address" table where "city" name contains exactly 5 letters
+
+SELECT *															
+FROM
+	ORDERS.ADDRESS													
+WHERE
+	CITY LIKE ('_____');							## Using the clause 'Where' will specify how many characters data are required to be retrieve. In this case data with 5 letters.
+
+
+-- Fetch all records from "product" table whose "product_price" is between 5000 and 10000
+
+SELECT *															
+FROM
+	ORDERS.PRODUCT													
+WHERE
+	PRODUCT_PRICE BETWEEN 5000 AND 10000;					## Using the clause 'Where' will retrieve all data wish price be between '5000' and '10000'.
+
+
+-- Fetch all the records from "products" table where "product_price" is less than 1000 and "product_quantity_available" is more than 100
+
+SELECT * 
+FROM
+	ORDERS.PRODUCT													
+WHERE
+	PRODUCT_PRICE < 1000 AND PRODUCT_QUANTITY_AVAIL > 100;			## Using the 'Where' clause will retrieve all data with 'Price' < 1000 and 'Quantity' > 100.
+
+
+-- Fetch all the records from "products" table where "product_price" is less than 1000 or "product_quantity_avail" is less than 50
+
+SELECT *									
+FROM
+	ORDERS.PRODUCT													
+WHERE
+	PRODUCT_PRICE < 1000 OR PRODUCT_QUANTITY_AVAIL < 50;			## Another example filtering with multiple conditions under 'Where' clause. In this case 'or'.
