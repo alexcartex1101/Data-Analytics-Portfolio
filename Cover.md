@@ -24,7 +24,7 @@
   - [Data Visualization in Excel](https://github.com/alexcartex1101/Data-Analytics-Portfolio/blob/main/in_process.md)
   - [Data Visualization in Tableu](https://github.com/alexcartex1101/Data-Analytics-Portfolio/blob/main/in_process.md)
   - [Data Visualization in Python](https://github.com/alexcartex1101/Data-Analytics-Portfolio/blob/main/in_process.md)
-  - [Data Visualization in Power BI)](https://github.com/alexcartex1101/Data-Analytics-Portfolio/blob/main/in_process.md)
+  - [Data Visualization in Power BI](https://github.com/alexcartex1101/Data-Analytics-Portfolio/blob/main/in_process.md)
 
 - <b>C# (.NET Desktop Applications)</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/alexcartex1101/Data-Analytics-Portfolio/blob/main/in_process.md)
