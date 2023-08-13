@@ -1,16 +1,23 @@
 -- Display entire data from "products" table
 SELECT *								## With the 'Select' command will ask to retrieve 'ALL' data contained in the database
-FROM ORDERS.PRODUCT;							## To finalize this query will specify the source table ('Product') in the database ('Orders')and use ';' to close the statement.
+FROM 
+  ORDERS.PRODUCT;							## To finalize this query will specify the source table ('Product') in the database ('Orders')and use ';' to close the statement.
 
 
 -- Display unique cities in the address table
-SELECT CITY								## With the 'Select' command will retrieve the column 'City' for the analysis
-FROM ORDERS.ADDRESS;							## from the table 'Address' in the database 'Orders'.
+SELECT
+  CITY								## With the 'Select' command will retrieve the column 'City' for the analysis
+FROM
+  ORDERS.ADDRESS;							## from the table 'Address' in the database 'Orders'.
 
 
 -- Display only "address_id", "city", "state" and "pincode" columns from "address" table
-SELECT ADDRESS_ID, STATE, PINCODE					## Another example where 3 columns are retrieved for analysis (address_id, state and pincode).
-FROM ORDERS.ADDRESS;
+SELECT
+  ADDRESS_ID
+  ,STATE
+  ,PINCODE					## Another example where 3 columns are retrieved for analysis (address_id, state and pincode).
+FROM
+  ORDERS.ADDRESS;
 
 
 -- Update the price of all products in the product table to a 25% lesser value
@@ -18,10 +25,12 @@ UPDATE ORDERS.PRODUCT							## Using the command 'Update' will modify current va
 SET PRODUCT_PRICE = PRODUCT_PRICE - (PRODUCT_PRICE * 0.25);		## Following with the 'Set' command will specify the column 'Product_price' and describe the operational process to run.
 
 SELECT *
-FROM ORDERS.PRODUCT;							## In order to can visualize the results updated, a 'Select' command will be run after.
+FROM
+  ORDERS.PRODUCT;							## In order to can visualize the results updated, a 'Select' command will be run after.
 
 
 -- Display the top 10 rows from address table
 SELECT *
-FROM ORDERS.ADDRESS
+FROM 
+  ORDERS.ADDRESS
 LIMIT 10;								## Using the command 'Limit' will only display the first 10 rows of the table that meet all conditions in the query.
