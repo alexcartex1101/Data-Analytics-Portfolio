@@ -46,7 +46,6 @@ WHERE
 
 
 -- Fetch the records from the "address" table where "state" is not null
-
 SELECT *															
 FROM
 	ORDERS.ADDRESS													
@@ -55,7 +54,6 @@ WHERE
 
 
 -- Fetch the records from "address" table where "city" name starts with the letter 'B'
-
 SELECT *															
 FROM
 	ORDERS.ADDRESS													
@@ -64,7 +62,6 @@ WHERE
 
 
 -- Fetch the records from "address" table where "city" name contains exactly 5 letters
-
 SELECT *															
 FROM
 	ORDERS.ADDRESS													
@@ -73,7 +70,6 @@ WHERE
 
 
 -- Fetch all records from "product" table whose "product_price" is between 5000 and 10000
-
 SELECT *															
 FROM
 	ORDERS.PRODUCT													
@@ -82,7 +78,6 @@ WHERE
 
 
 -- Fetch all the records from "products" table where "product_price" is less than 1000 and "product_quantity_available" is more than 100
-
 SELECT * 
 FROM
 	ORDERS.PRODUCT													
@@ -91,7 +86,6 @@ WHERE
 
 
 -- Fetch all the records from "products" table where "product_price" is less than 1000 or "product_quantity_avail" is less than 50
-
 SELECT *									
 FROM
 	ORDERS.PRODUCT													
