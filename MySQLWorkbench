@@ -15,7 +15,7 @@ FROM
 SELECT
   ADDRESS_ID
   ,STATE
-  ,PINCODE					                   ## Another example where 3 columns are retrieved for analysis (address_id, state and pincode).
+  ,PINCODE					                       ## Another example where 3 columns are retrieved for analysis (address_id, state and pincode).
 FROM
   ORDERS.ADDRESS;
 
