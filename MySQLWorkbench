@@ -21,8 +21,10 @@ FROM
 
 
 -- Update the price of all products in the product table to a 25% lesser value
-UPDATE ORDERS.PRODUCT							## Using the command 'Update' will modify current values in the table 'Product'
-SET PRODUCT_PRICE = PRODUCT_PRICE - (PRODUCT_PRICE * 0.25);		## Following with the 'Set' command will specify the column 'Product_price' and describe the operational process to run.
+UPDATE
+  ORDERS.PRODUCT							## Using the command 'Update' will modify current values in the table 'Product'
+SET
+  PRODUCT_PRICE = PRODUCT_PRICE - (PRODUCT_PRICE * 0.25);		## Following with the 'Set' command will specify the column 'Product_price' and describe the operational process to run.
 
 SELECT *
 FROM
