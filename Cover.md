@@ -25,8 +25,6 @@
   - [Data Visualization in Python.](https://github.com/alexcartex1101/Data-Analytics-Portfolio/blob/main/in_process.md)
   - [Data Visualization in Power BI.](https://github.com/alexcartex1101/Data-Analytics-Portfolio/blob/main/in_process.md)
 
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/alexcartex1101/Data-Analytics-Portfolio/blob/main/in_process.md)
 
 <h2>Connect with me:</h2>
 
