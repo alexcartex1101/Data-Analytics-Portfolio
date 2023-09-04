@@ -34,14 +34,6 @@
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/alexcartex1101/Data-Analytics-Portfolio/blob/main/in_process.md)
 
-<h2>Popular YouTube Videos</h2>
-
-- [How to get into Cybersecurity Starting From Zero](https://github.com/alexcartex1101/Data-Analytics-Portfolio/blob/main/in_process.md)
-- [A Day in the Life of a Cybersecurity Anayst](https://github.com/alexcartex1101/Data-Analytics-Portfolio/blob/main/in_process.md)
-- [How to Create a KeyLogger (C#)](https://github.com/alexcartex1101/Data-Analytics-Portfolio/blob/main/in_process.md)
-- [Ransomware Demonstration (C#)](https://github.com/alexcartex1101/Data-Analytics-Portfolio/blob/main/in_process.md)
-- [Is WGU Legit?](https://github.com/alexcartex1101/Data-Analytics-Portfolio/blob/main/in_process.md)
-
 <h2>Connect with me:</h2>
 
 [<img align="left" alt="AbelMorales | LinkedIn" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
