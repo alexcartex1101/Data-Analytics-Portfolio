@@ -25,12 +25,6 @@
   - [Data Visualization in Python.](https://github.com/alexcartex1101/Data-Analytics-Portfolio/blob/main/in_process.md)
   - [Data Visualization in Power BI.](https://github.com/alexcartex1101/Data-Analytics-Portfolio/blob/main/in_process.md)
 
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter).](https://github.com/alexcartex1101/Data-Analytics-Portfolio/blob/main/in_process.md)
-  - [Ransomware Proof of Concept (Decrypter).](https://github.com/alexcartex1101/Data-Analytics-Portfolio/blob/main/in_process.md)
-  - [Keylogger with Email Capability.](https://github.com/alexcartex1101/Data-Analytics-Portfolio/blob/main/in_process.md)
-  - [Keylogger with Email Capability.](https://github.com/alexcartex1101/Data-Analytics-Portfolio/blob/main/in_process.md)
-
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/alexcartex1101/Data-Analytics-Portfolio/blob/main/in_process.md)
 
