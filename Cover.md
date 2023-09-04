@@ -32,4 +32,4 @@
 [<img align="left" alt="AbelMorales | Instagram" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [linkedin]: https://linkedin.com/in/aabelmorales
-[instagram]: https://www.instagram.com/joshmadakor/
+[instagram]: https://www.instagram.com/ab_utt/
