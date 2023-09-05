@@ -16,8 +16,11 @@
   - [Structured Data Cleaning in Python.](https://github.com/alexcartex1101/Data-Analytics-Portfolio/blob/main/in_process.md)
 
 - <b> Data Query </b>
-  - [Query Data with MySQLWorkbench.](https://github.com/alexcartex1101/Data-Analytics-Portfolio/blob/main/MySQLWorkbench)
-  - [Query Data with MySQLServer.](https://github.com/alexcartex1101/Data-Analytics-Portfolio/blob/main/in_process.md)
+  - [Fetching and Filtering Data.](https://github.com/alexcartex1101/Data-Analytics-Portfolio/blob/main/MySQLWorkbench)
+  - [Aggregating and Sorting Data.](https://github.com/alexcartex1101/Data-Analytics-Portfolio/blob/main/in_process.md)
+  - [Aggregating and Sorting Data.](https://github.com/alexcartex1101/Data-Analytics-Portfolio/blob/main/in_process.md)
+  - [Aggregating and Sorting Data.](https://github.com/alexcartex1101/Data-Analytics-Portfolio/blob/main/in_process.md)
+
 
 - <b> Data Vizualization </b>
   - [Data Visualization in Excel.](https://github.com/alexcartex1101/Data-Analytics-Portfolio/blob/main/in_process.md)
