@@ -18,9 +18,10 @@
 - <b> Data Query </b>
   - [Fetching and Filtering Data.](https://github.com/alexcartex1101/Data-Analytics-Portfolio/blob/main/MySQLWorkbench)
   - [Aggregating and Sorting Data.](https://github.com/alexcartex1101/Data-Analytics-Portfolio/blob/main/in_process.md)
-  - [Aggregating and Sorting Data.](https://github.com/alexcartex1101/Data-Analytics-Portfolio/blob/main/in_process.md)
-  - [Aggregating and Sorting Data.](https://github.com/alexcartex1101/Data-Analytics-Portfolio/blob/main/in_process.md)
-
+  - [Table Joins.](https://github.com/alexcartex1101/Data-Analytics-Portfolio/blob/main/in_process.md)
+  - [Window Functions.](https://github.com/alexcartex1101/Data-Analytics-Portfolio/blob/main/in_process.md)
+  - [Common Table Expression (CTE) and Subqueries.](https://github.com/alexcartex1101/Data-Analytics-Portfolio/blob/main/in_process.md)
+  - [Temporal Tables.](https://github.com/alexcartex1101/Data-Analytics-Portfolio/blob/main/in_process.md)
 
 - <b> Data Vizualization </b>
   - [Data Visualization in Excel.](https://github.com/alexcartex1101/Data-Analytics-Portfolio/blob/main/in_process.md)
